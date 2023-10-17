@@ -1,8 +1,8 @@
 # 工具书
 
-- CRC handbook of chemistry and physics (W. M. Haynes, David R. Lide, Thomas J. Bruno) (z-lib.org)(97版)
-- Langes Handbook of Chemistry (James Speight) (z-lib.org)（第17版）
-- The Oxide Handbook (G. V. Samsonov (auth.), G. V. Samsonov (eds.)) (z-lib.org)
+- CRC handbook of chemistry and physics (W. M. Haynes, David R. Lide, Thomas J. Bruno) (97版)
+- Langes Handbook of Chemistry (James Speight)（第17版）
+- The Oxide Handbook (G. V. Samsonov (auth.), G. V. Samsonov (eds.)) 
 
 
 
