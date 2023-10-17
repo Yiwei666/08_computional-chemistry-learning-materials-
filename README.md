@@ -1,3 +1,12 @@
+# 工具书
+
+- CRC handbook of chemistry and physics (W. M. Haynes, David R. Lide, Thomas J. Bruno) (z-lib.org)(97版)
+- Langes Handbook of Chemistry (James Speight) (z-lib.org)（第17版）
+- The Oxide Handbook (G. V. Samsonov (auth.), G. V. Samsonov (eds.)) (z-lib.org)
+
+
+
+
 # 08_computional-chemistry-learning-materials
 - Multiwfn与波函数分析简介.pdf
 - Multiwfn_3.8_dev.pdf
